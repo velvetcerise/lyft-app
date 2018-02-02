@@ -19,9 +19,13 @@
   height: 55vh;
 }
 
-#modal-btn {
+#modal-btn, #valid {
   background-color: #FF00BF;
   color: #ffff;
+}
+
+.fa {
+  color: #FF00BF;
 }
 
 .message{
