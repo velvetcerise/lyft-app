@@ -1,4 +1,4 @@
-#splash {
+#splash, .last {
 /*Gradiente background*/
   background: rgba(129,3,108,1);
   background: -moz-linear-gradient(-45deg, rgba(129,3,108,1) 0%, rgba(163,18,139,1) 20%, rgba(176,30,147,1) 36%, rgba(230,32,138,1) 77%, rgba(239,1,124,1) 100%);
@@ -22,6 +22,14 @@
 #modal-btn, #valid {
   background-color: #FF00BF;
   color: #ffff;
+}
+
+#NEXT {
+  height: 12vh;
+}
+
+.next {
+  margin-top: 5vh;
 }
 
 .fa {
